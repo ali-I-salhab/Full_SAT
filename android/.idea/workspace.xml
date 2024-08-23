@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef8d5a01-d9bc-426a-ba90-cd2f6cbcfc01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lib/core/appkeys/join_us_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/models/order_models/field_value.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/models/order_models/form_main_info.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/models/order_models/offer_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/models/order_models/order_details.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/models/parameter_models/order_cost_info_parameter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/components/multi_fields_inputs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/565f30d25262050c7c6cb5d11e43531c/kernel_snapshot.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/lang/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/lang/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/assets/debug/flutter_assets/NOTICES.Z" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/assets/debug/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/assets/debug/flutter_assets/assets/lang/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/assets/debug/flutter_assets/assets/lang/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/NOTICES.Z.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/NOTICES.Z.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/lang/en.json.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/lang/en.json.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_assets/NOTICES.Z" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_assets/assets/lang/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_assets/assets/lang/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/javac/debug/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/javac/debug/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/kotlin/compileDebugKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/outputs/flutter-apk/app-debug.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/outputs/flutter-apk/app-debug.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/app/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/e5af93aeb062c1faf752195ab72478e5.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/../build/e5af93aeb062c1faf752195ab72478e5.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/errors/server_failure.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/errors/server_failure.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/helpers/render_widget_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/helpers/render_widget_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/utils/app_text_styles.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/utils/app_text_styles.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/api/endpoints.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/api/endpoints.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/models/field_info.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/models/field_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/models/form_data_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/models/invoice_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/models/order_models/invoice_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/auth_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/auth_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/categories_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/categories_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/field_info_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/field_info_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/languages_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/languages_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/location_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/location_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/order_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/order_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/profile_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/profile_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/store/stores_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/store/stores_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/workers_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/workers_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/logic/join_us/join_us_cubit/join_us_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/logic/join_us/join_us_cubit/join_us_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/logic/join_us/worker_application_cubit/worker_application_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/logic/join_us/worker_application_cubit/worker_application_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/logic/main_cubit/main_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/logic/main_cubit/main_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/logic/main_cubit/main_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/logic/main_cubit/main_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/bottom_sheets/select_time_bottom_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/bottom_sheets/select_time_bottom_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/color_picker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/color_picker.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/join_application_components/app_drop_down.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/join_application_components/app_drop_down.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/join_application_components/upload_image_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/join_application_components/upload_image_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/order_components/appointment_booking_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/order_components/appointment_booking_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/order_components/cobon_activation_component.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/order_components/cobon_activation_component.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/order_components/order_cost_detail_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/order_components/order_cost_detail_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/order_components/service_type_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/order_components/service_type_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/components/upload_multiple_images_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/components/upload_multiple_images_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/router/app_router.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/router/app_router.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/screens/join_screens/worker_application_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/screens/join_screens/worker_application_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/screens/join_screens/workshop_application_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/screens/join_screens/workshop_application_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/screens/main_order_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/screens/main_order_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/screens/order_screens/order_cost_details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/screens/order_screens/order_cost_details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/screens/order_screens/order_details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/screens/order_screens/order_details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/presentation/screens/splash_screen/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/presentation/screens/splash_screen/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2dlg6VmWsJHcg1iU7mQIYmXcNOJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8d5a01-d9bc-426a-ba90-cd2f6cbcfc01" name="Changes" comment="" />
+      <created>1710587909488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710587909488</updated>
+    </task>
+    <servers />
+  </component>
+</project>

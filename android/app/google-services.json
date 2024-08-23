@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957604938035",
+    "project_id": "lorka-cfaf3",
+    "storage_bucket": "lorka-cfaf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957604938035:android:eb227df07788125f74fe46",
+        "android_client_info": {
+          "package_name": "com.example.osta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDug0CkvhEhm3n0UcHrGJD1UwvuuWvkEyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

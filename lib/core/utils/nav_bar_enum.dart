@@ -1,0 +1,1 @@
+enum NavBarItem{home,join,requests,profile,whatsapp}
